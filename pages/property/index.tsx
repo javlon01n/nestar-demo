@@ -1,7 +1,6 @@
 import { Container, Stack } from "@mui/material";
 
 const PropertyList = () => {
-  console.log("PROPERTYLIST COMPONENT - PAGES ROUTER");
   return (
     <>
       <Stack sx={{ background: "#81c784" }}>Header Basic</Stack>
